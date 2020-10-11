@@ -1,5 +1,5 @@
 # Way-to-Mars
-3D Game Prototype <br>
+3D Game Prototype Based on Educating Others About Humanity's Road to Mars <br>
 
 # Overview
 Curiosity mars rover's 1.8 billion-pixel panorama image & Nasa's 3D resources are used to create the Mars environment here.<br>
